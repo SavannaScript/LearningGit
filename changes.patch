@@ -1,0 +1,10 @@
+diff --git a/index.js b/index.js
+index ad21821..106eeab 100644
+--- a/index.js
++++ b/index.js
+@@ -1 +1,2 @@
+-console.log("hello world")
+\ No newline at end of file
++console.log("hello world")
++let x =10
+\ No newline at end of file
